@@ -1,5 +1,4 @@
 # Activities
-
 The MHS Developers Club intends to be a very active and prominent club in the MHS community. The club accomodates many members of different abilities and levels of experience, and provides provides a wide range of activites tailored for the different abilities of its members.
 
 ## Basic Courses
